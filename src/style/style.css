@@ -1,0 +1,41 @@
+.opButton {
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 2px;
+    text-transform: uppercase;
+    background-color: rgb(32,32,32);
+    color: white;
+    position: relative;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    font-size: 20px;
+}
+.numButton {
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 2px;
+    text-transform: uppercase;
+    background-color: rgb(32,32,32);
+    color: white;
+    position: relative;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    font-size: 20px;
+}
+.style {
+    color: white;
+    height: 50px;
+    width: 247px;
+    margin-top: -15px;
+    margin-bottom: -17px;
+    font-size: 16px;
+    background-color: rgb(32,32,32);
+    text-align: right;
+    vertical-align: middle;
+}
+.textStyle {
+    font-family: monospace;
+    transform: translate(-4%, 80%);
+}
